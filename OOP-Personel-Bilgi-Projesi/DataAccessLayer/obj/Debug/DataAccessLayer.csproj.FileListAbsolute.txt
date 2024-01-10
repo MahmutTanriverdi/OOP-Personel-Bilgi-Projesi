@@ -1,0 +1,9 @@
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer1.dll
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer1.pdb
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
